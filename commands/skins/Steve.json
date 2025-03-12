@@ -1,0 +1,17 @@
+{
+		"AnimatedImageData": [
+			{
+				"AnimationExpression": 1,
+				"Frames": 2,
+				"Image": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVHhe7ZgxTsMwFIZ9BA7AETgCdGJh6MLCwMDAwsDAwMDAwMLAwsDAwsDAwMDAwNAhQ4YgDwO+nWFGlJG1ex4nj/5N+RUrcxP3yLH87EwAAAAAAAACwPQ6r6vN41P1Mxau6mulm0dR3+dVnU2fxPOSmvsvP4/qkMwr6mOL8R9zUs7ip5yl+S7husKaX1O2fLE/yq88SyKPEIH6dKAI9zKbGebxPx9xkReImYz92B9JDPBk35V4QEjd5l0DlSeDmtK6X8Xw67j7SGxBI3Pi7Bf54d6Yv8oynIGw6EYS+QXSbmgeXm7KTEBk47WmKtD4R+KSvEIRfJwFJkPXVxPz6JkeNKt69b7rRvUTYI88SzLu6t90IAAAAAAAAAAAAAAAAAAAAAAAA9sUsXr4t1v0fPoFl3H/8Hzpv0tR7E7fqejj11rWlCNPWff0lZlP6pq+bN1XypToAAAAAAAAADJOq+gZA0UQBTm2uLQAAAABJRU5ErkJggg==",
+				"Type": 0,
+				"ImageHeight": 64,
+				"ImageWidth": 64,
+				"Fps": 1
+			}
+		],
+		"SkinResourcePatch": "{\"geometry\":{\"default\":\"geometry.humanoid.custom\"},\"bones\":[{\"name\":\"body\",\"pivot\":[0,24,0],\"cubes\":[{\"origin\":[-4,12,-2],\"size\":[8,12,4],\"uv\":[16,16]}]},{\"name\":\"waist\",\"neverRender\":true,\"pivot\":[0,12,0]},{\"name\":\"head\",\"pivot\":[0,24,0],\"cubes\":[{\"origin\":[-4,24,-4],\"size\":[8,8,8],\"uv\":[0,0]}]},{\"name\":\"hat\",\"pivot\":[0,24,0],\"cubes\":[{\"origin\":[-4,24,-4],\"size\":[8,8,8],\"uv\":[32,0],\"inflate\":0.5}],\"neverRender\":false},{\"name\":\"rightArm\",\"pivot\":[-5,22,0],\"cubes\":[{\"origin\":[-8,12,-2],\"size\":[4,12,4],\"uv\":[40,16]}]},{\"name\":\"leftArm\",\"pivot\":[5,22,0],\"cubes\":[{\"origin\":[4,12,-2],\"size\":[4,12,4],\"uv\":[40,16]}]},{\"name\":\"rightLeg\",\"pivot\":[-1.9,12,0],\"cubes\":[{\"origin\":[-3.9,0,-2],\"size\":[4,12,4],\"uv\":[0,16]}]},{\"name\":\"leftLeg\",\"pivot\":[1.9,12,0],\"cubes\":[{\"origin\":[-0.1,0,-2],\"size\":[4,12,4],\"uv\":[0,16]}]}]}",
+		"geometry": {
+			"default": "geometry.humanoid.custom"
+		}
+}
